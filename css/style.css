@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
 li{
   list-style: none;}
 .btn-load-more {
-  padding: .5rem 22.2rem;}
+  width: 100%;}
 /* ==========================PORTFOLIO ASIDE SECTION CSS=============================*/
 #portfolio-page {
   width: 100%;
